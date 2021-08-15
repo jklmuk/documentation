@@ -36,7 +36,7 @@ Image goes here
 | 1.0   | 32 | 40 | 20 | 50 | 50 | 64 | Not possible due missing gear |
 | 1.0 alt| 32 | 40 | 20 | 60 | 45 | 58 |      |
 | 1.25  | 32 | 40 | 25 | 50 | 50 | 64 | Not possible due missing gear |
-| 1.25 alt| 32 | 40 | 25 | 60 | 45 | 58 |      |
+| 1.25 alt| 32 | 40 | 25 | 60 | 45 | 58 | This gear arrangement creates a clash in the normal setup but can be overcome by offset the first staft |
 | 1.5   | 32 | 40 | 30 | 50 | 50 | 64 | Not possible due missing gear |
 | 1.5 alt| 32 | 40 | 30 | 60 | 45 | 58 |      |
 | 1.75  | 32 | 40 | 35 | 50 | 50 | 64 | Not possible due missing gear |
@@ -75,7 +75,9 @@ Image goes here
 | 14         | 32 | 63 | 50 | 35 | 30 | 48 |       |
 | 16         | 32 | 60 | 50 | 48 | 45 | 63 |       |
 | 18         | 32 | 60 | 60 | 36 | 25 | 63 | Not possible due missing gear |
+| 18 alt     | 32 | 48 | 20 | 36 | 60 | 63 |       |
 | 19         | 32 | 40 | 40 | 38 | 25 | 63 | Not possible due missing gear |
+| 19 alt     | 32 | 48 | 40 | 38 | 30 | 63 |       |
 | 20         | 32 | 50 | 50 | 40 | 25 | 63 | Not possible due missing gear |
 | 20 alt     | 32 | 25 | 20 | 64 | 50 | 63 |       |
 | 22         | 32 | 50 | 50 | 44 | 25 | 63 | Not possible due missing gear |
